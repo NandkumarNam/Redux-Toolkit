@@ -1,4 +1,4 @@
-const axios = require('axios')
+const axios = require('axios');
 const createSlice = require('@reduxjs/toolkit').createSlice;
 const createAsyncThunk = require('@reduxjs/toolkit').createAsyncThunk;
 
